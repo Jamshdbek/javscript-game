@@ -1,4 +1,4 @@
-# javscript-game 
+# javaScript-game 
 ......
 Game
 
